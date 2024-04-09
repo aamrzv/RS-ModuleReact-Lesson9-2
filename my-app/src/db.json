@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": "70bd",
+      "title": "Сделал дело",
+      "completed": false
+    },
+    {
+      "id": "6d56",
+      "title": "Освоить стейт менеджер",
+      "completed": true
+    },
+    {
+      "id": "dd6b",
+      "title": "урок 9 задание 2",
+      "completed": false
+    },
+    {
+      "title": "ацккмк",
+      "id": "4Pnv-Bi",
+      "completed": false
+    }
+  ]
+}
